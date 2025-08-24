@@ -48,6 +48,12 @@ venv\Scripts\activate      # On Windows
 ```bash
 pip install -r requirements.txt
 ```
+4. Download Dataset
+
+This project uses the Toronto Emotional Speech Set (TESS).
+👉 [Download here](https://tspace.library.utoronto.ca/handle/1807/24487)
+
+ Extract the dataset and place it in a folder named `data/` inside the project.
 
 ---
 
